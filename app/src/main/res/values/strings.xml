@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day4</string>
+    <string name="textView1">tip_amount</string>
+    <string name="editText1">bill_amount</string>
+    <string name="editText2">tip_custom</string>
+    <string name="fifteenPercent">tip_15</string>
+    <string name="eighteenPercent">tip_18</string>
+    <string name="twentyPercent">tip_20</string>
+    <string name="custom">custom</string>
+    <string name="convert">calculate</string>
+</resources>
